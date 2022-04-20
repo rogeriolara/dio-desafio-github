@@ -2,7 +2,7 @@
 Meu primeiro desafio de projeto sobre Git/GitHub
 Repositório criado para  projeto da DIO
 
-##Vocabulários
+##Vocabulários#
 
 Versionamento: controle de versões, estabelecido por meio de "numerações" de históricos diferentes. Permite saber qual e quando as alterações foram realizadas.
 
