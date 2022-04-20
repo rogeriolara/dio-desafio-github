@@ -21,7 +21,7 @@ Git representa alterações para Add: +    /   Remover:  -
 
 **Clone:** clone de repositório. Caso deseje trabalhar em um repositório hospedado no github, clona-se esse repositório para o seu computador, e então é pedida a permissão para atualizar as alterações online.
 
-**Pull:* atualização do repositório local. É realizado uma merge e depois enviado o código sem conflitos para o repositório online por meio da push.
+**Pull:** atualização do repositório local. É realizado uma merge e depois enviado o código sem conflitos para o repositório online por meio da push.
 
 **Push:** envia o código para o repositório online.
 
